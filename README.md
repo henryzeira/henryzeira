@@ -16,7 +16,7 @@ Sou Físico formado pela Universidade Estadual de Maringá (UEM) e trabalho como
 
 • Excel e Power BI
 
-• Machine Learning (Ainda estou aprendendo os conceitos dos principais modelos)
+• Machine Learning
 
 <br>
 
